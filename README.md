@@ -1,4 +1,8 @@
-<div align="center">   <img src="https://th.bing.com/th/id/OIP.tg7tqjoYDzPZX4iavArcBgHaKk?w=184&h=262&c=7&r=0&o=5&dpr=1.7&pid=1.7" alt="Description" /> </div>
+<div align="center">   
+  <img src="https://th.bing.com/th/id/OIP.tg7tqjoYDzPZX4iavArcBgHaKk?w=184&h=262&c=7&r=0&o=5&dpr=1.7&pid=1.7" alt="Description" />
+<br>Image source: <a href="https://en.wikipedia.org/wiki/Too_Many_Losing_Heroines!">Too Many Losing Heroines!</a><br>
+<em>A highly recommended Japanese romantic comedy light novel, the anime adaptation premiered in July 2024.</em>
+</div>
 
 # 👋 I'm SCUklr
 
@@ -12,7 +16,7 @@
 
 
 ## 🛠 技术栈（Technology Stack）
-- 语言（Coding Language）: Python | Java | C 
+- 语言（Coding Language）: **Python** | Java | C 
 - **前端（Front End）:** **HTML | CSS | JavaScript | Vue**
 - 测试（Testing）：Postman | JMeter | Pytest
 
