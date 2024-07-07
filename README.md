@@ -18,7 +18,7 @@
 ## 🛠 技术栈（Technology Stack）
 - 语言（Coding Language）: **Python** | Java | C 
 - **前端（Front End）:** **HTML | CSS | JavaScript | Vue**
-- 测试（Testing）：Postman | JMeter | Pytest
+- 测试（Testing）：ApiPost | Postman | Pytest
 
 ## 🌱 计划学习（Plan to study）
 - **前端（Front End）：React**
