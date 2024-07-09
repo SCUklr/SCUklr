@@ -25,9 +25,9 @@
 
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img src="https://github-readme-stats.vercel.app/api?username=SCUklr&show_icons=true&theme=radical" alt="Anurag's GitHub stats" /> 
+       <img src="https://github-readme-stats.vercel.app/api?username=SCUklr&show_icons=true&theme=light" alt="Anurag's GitHub stats" /> 
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCUklr&layout=compact&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCUklr&layout=compact&theme=light" alt="Top Langs" />
   </a>
 </div>
