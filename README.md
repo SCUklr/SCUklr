@@ -5,8 +5,8 @@
 
 | 时间（Duration）          | 大学（University）         | 专业（Major）                         |
 |-------------------------|-------------------------|-----------------------------------|
-| 2021.09-2025.01  | 四川大学（Sichuan University） | 软件工程（Software Engineering）    |
-| 2025.01-2026.04  | 新加坡管理大学（Singapore Management University） | 商业信息技术硕士（AI方向）（MITB-AI track） |
+| 2021.09-2025.06  | 四川大学（Sichuan University） | 软件工程（Software Engineering）    |
+
 
 ## 🛠 技术栈（Technology Stack）
 - 语言（Coding Language）: **Python** | Java | C 
