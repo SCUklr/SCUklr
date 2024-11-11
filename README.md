@@ -6,6 +6,7 @@
 | 时间（Duration）          | 大学（University）         | 专业（Major）                         |
 |-------------------------|-------------------------|-----------------------------------|
 | 2021.09-2025.06  | 四川大学（Sichuan University） | 软件工程（Software Engineering）    |
+| 2025.09-2026  | 香港中文大学（The Chinese University of Hong Kong） | 信息工程（Information Engineering）    |
 
 
 ## 🛠 技术栈（Technology Stack）
