@@ -14,9 +14,8 @@
 - **前端（Front End）:** **HTML | CSS | JavaScript | React**
 
 ## 🌱 计划学习（Plan to Study）
-- Docker
 - **Machine Learning**
-- **Data Analysis**
+
 
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
