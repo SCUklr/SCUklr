@@ -12,4 +12,4 @@
 
 ## 🌱 计划学习（Plan to Study）
 - **NLP**  
-- **Multimodal**
+- **Multi-view**
