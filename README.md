@@ -8,8 +8,9 @@
 
 ## 🛠 技术栈（Technology Stack）
 - 语言（Coding Language）: **Python** | Java | C  
-- 前端（Front End）: HTML | CSS | JavaScript | React
+- 前端（Front End）: HTML | CSS | JavaScript | **Vue**
+- 测试（Testing）: **Selenium** | **Pytest** | Appium
 
 ## 🌱 计划学习（Plan to Study）
 - **NLP**  
-- **Multi-view**
+- **Multi-view Clustering**
