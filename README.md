@@ -8,7 +8,6 @@
 
    
 ## 🛠 技术栈（Technology Stack） 
-- 前端(Front-end): **Vue 3** (Composition API) | React (Hooks) | JavaScript (ES6+) | TypeScript
 - 后端(Back-end)： JavaSE | Spring Boot | REST API | MySQL | Maven 
 - **Python** | Java | C
 
