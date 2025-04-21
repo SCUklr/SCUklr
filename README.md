@@ -8,8 +8,8 @@
 
    
 ## 🛠 技术栈（Technology Stack） 
-- 前端（Front End）: **Vue3** | React | HTML | CSS | JavaScript | TypeScript  
-- 测试（Testing）: **Selenium** | Cypress | Pytest | Postman
+- 前端(Front-end): **Vue 3** (Composition API) | React (Hooks) | JavaScript (ES6+) | TypeScript
+- 后端(Back-end)： JavaSE | Spring Boot | REST API | MySQL | Maven 
+- 测试(Testing): **Selenium** | Cypress | Pytest | Postman
 - **Python** | Java | C
-## 🌱 计划学习（Plan to Study）
-- **Multi-view Clustering**
+
