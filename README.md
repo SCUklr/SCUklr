@@ -6,8 +6,10 @@
 - **2025.09 - 2026**  
   <b>MSc in Information Engineering</b> at <b>香港中文大学（The Chinese University of Hong Kong）</b>
 
+## My Blog
+[SCUKLR GitHub Page](https://scuklr.github.io/)
    
 ## 🛠 技术栈（Technology Stack） 
-- 后端(Back-end)： JavaSE | Spring Boot | REST API | MySQL | Maven 
-- **Python** | Java | C
+-  JavaSE | Spring Boot | REST API | MySQL | Maven | Vue3 
+- **Java** | Python | C
 
