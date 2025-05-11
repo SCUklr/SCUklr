@@ -10,6 +10,6 @@
 [SCUKLR GitHub Page](https://scuklr.github.io/)
    
 ## 🛠 技术栈（Technology Stack） 
--  JavaSE | Spring Boot | REST API | MySQL | Maven | Vue3 
-- **Java** | Python | C
+-  JavaSE | Spring Boot | Redis | Vue3 
+- **Java** | Python
 
