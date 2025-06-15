@@ -7,9 +7,9 @@
   <b>MSc in Information Engineering</b> at <b>香港中文大学（The Chinese University of Hong Kong）</b>
 
 ## My Blog
-[SCUKLR GitHub Page](https://scuklr.github.io/)
+Old one: [SCUKLR GitHub Page](https://scuklr.github.io/)
    
 ## 🛠 技术栈（Technology Stack） 
--  JavaSE | Spring Boot | Redis | Vue3 
+-  JavaSE | Spring Boot | Redis | React 
 - **Java** | Python
 
