@@ -10,6 +10,6 @@
 Old one: [SCUKLR GitHub Page](https://scuklr.github.io/)
    
 ## 🛠 技术栈（Technology Stack） 
--  JavaSE | Spring Boot | Redis | React 
+-  **SpringBoot** | **React** | Redis 
 - **Java** | Python
 
