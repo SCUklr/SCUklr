@@ -9,6 +9,6 @@
 ## My Blog
 Old one: [SCUKLR GitHub Page](https://scuklr.github.io/)
    
-## 🛠 技术栈（Technology Stack） 
+## 🛠 Technology Stack 
 - **SpringBoot** | Vue | Selenium
 
