@@ -1,14 +1,11 @@
-# 👋 I'm SCUklr
+# 👋 Hi, I'm SCUklr
+**Full Stack Developer | Software Engineering Enthusiast**
 
-- **2021.09 - 2025.06**  
-  <b>B.Eng in Software Engineering</b> at <b>四川大学（Sichuan University）</b>
+My Blog: [SCUKLR GitHub Page](https://scuklr.github.io/)
 
-- **2025.09 - 2026.07**  
-  <b>MSc in Information Engineering</b> at <b>香港中文大学（The Chinese University of Hong Kong）</b>
+🎓 **Education**  
+- **B.Eng in Software Engineering** · Sichuan University (2021.09 – 2025.06)  
+- **MSc in Information Engineering** · The Chinese University of Hong Kong (2025.09 – 2026.11)  
 
-## My Blog
-Old one: [SCUKLR GitHub Page](https://scuklr.github.io/)
-   
-## 🛠 Technology Stack 
-- **SpringBoot** | Vue | Selenium
-
+🛠 **Tech Stack**  
+Java · Spring · Spring Boot · Vue · Redis · MySQL  
