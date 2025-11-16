@@ -9,6 +9,5 @@ My Blog: [SCUKLR GitHub Page](https://scuklr.github.io/)
 
 
 🛠 **Tech Stack**  
-- 💻 **Java** · Spring · Spring Boot · Vue · Redis · MySQL  
-- 📱 Kotlin · FastAPI
-- Adobe Illustrator · Premier Pro 
+- 💻 **Java** · Spring · Spring Boot · React · Redis · MySQL · Python  
+
