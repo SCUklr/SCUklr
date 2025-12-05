@@ -1,7 +1,7 @@
 # 👋 Hi, I'm SCUklr
 **Full Stack Developer | Software Engineering Enthusiast**
 
-My Blog: [SCUKLR GitHub Page](https://scuklr.github.io/)
+~~My Blog: [SCUKLR GitHub Page](https://scuklr.github.io/)~~
 
 🎓 **Education**  
 - **MSc in Information Engineering** · The Chinese University of Hong Kong 香港中文大學 (2025.09 – 2026.11)  
