@@ -9,5 +9,11 @@
 
 
 🛠 **Tech Stack**  
-- 💻 **Java** · Spring · Spring Boot · React · Redis · MySQL · Python  
+- 💻 **Java** · Spring · Spring Boot · React · Redis · MySQL · Python
+
+
+### PGP
+
+`122790291klr@gmail.com`  
+`9BA8 0445 3D6E 80FA 1391 935C 4AA9 FB23 76B8 662F`
 
