@@ -1,5 +1,5 @@
 # 👋 Hi, I'm SCUklr
-**Backend Developer | Software Engineering Enthusiast**
+**Backend Developer**
 
 My Blog: [SCUKLR GitHub Page](https://scuklr.github.io/)
 
@@ -10,7 +10,6 @@ My Blog: [SCUKLR GitHub Page](https://scuklr.github.io/)
 
 🛠 **Tech Stack**  
 - 💻 **Java** · Spring · Spring Boot · React · Redis · MySQL · Python
-- Kotlin · FastAPI
 
 
 ### PGP
