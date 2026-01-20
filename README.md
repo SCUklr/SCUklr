@@ -24,7 +24,7 @@ I am a **Backend Developer** passionate about building scalable distributed syst
 - **Middleware**: ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
 
 ## 📈 GitHub Stats | 统计图
-![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SCUKLR&show_icons=true&theme=radical)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=SCUKLR&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SCUKLR&layout=compact&theme=radical)
 
 ---
