@@ -1,4 +1,4 @@
-# Hi there 👋 I'm John Kong
+# Hi there 👋
 I am a **Backend Developer** passionate about building scalable distributed systems and exploring Large Language Models. 
 
 ---
