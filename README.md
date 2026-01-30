@@ -2,8 +2,8 @@
 
 I am a **Backend Developer** passionate about building scalable distributed systems and exploring Large Language Models. 
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=SCUklr&show_icons=true&theme=radical&custom_title=John's%20GitHub%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SCUklr&layout=compact&theme=radical)
+![John's GitHub stats](https://github-readme-stats-mu-two-17.vercel.app/api?username=SCUKLR&show_icons=true&theme=radical&custom_title=John's%20GitHub%20Stats&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-mu-two-17.vercel.app/api/top-langs/?username=SCUKLR&layout=compact&theme=radical)
 
 ## 🛠 Tech Stack | 技术栈
 - **Languages**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
