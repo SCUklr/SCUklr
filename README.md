@@ -1,6 +1,6 @@
 # Hi there 👋 I'm John Kong
 
-**Backend Developer** & **AI Agent Developer** |  passionate about Building scalable systems & exploring LLMs. 
+**AI Agent Developer** |  passionate about Building scalable systems & exploring LLMs. 
 
 ## 🛠 Tech Stack
 
