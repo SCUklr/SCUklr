@@ -7,9 +7,9 @@
 - **Languages**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - **Backend**: ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-- **AI Agent**: ![LangGraph](https://img.shields.io/badge/-LangGraph-FF6B6B?logo=langgraph&logoColor=white) 
+- **AI Agent**: SpringAI
 
-- 🔧 **Currently Learning**: SpringAI, AI Agent System Design（RAG、Tool Calling、Multi-Agent Orchestration、State Management）
+- 🔧 **Currently Learning**: LangGraph, AI Agent System Design（RAG、Tool Calling、Multi-Agent Orchestration、State Management）
 
 ## 🎓 Education
 
