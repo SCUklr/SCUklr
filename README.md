@@ -1,6 +1,6 @@
 # Hi there 👋 I'm John Kong
 
-**Javaer ｜ Backend / AI Agent Developer** |  passionate about Building scalable systems & exploring LLMs. 
+**Javaer -> AI Agent Developer** |  passionate about Building scalable systems & exploring LLMs. 
 
 ✍️ **Blog**: [SCUKLR GitHub Page](https://scuklr.github.io) / 📫 **Contact**: [122790291klr@gmail.com](mailto:122790291klr@gmail.com)
 
