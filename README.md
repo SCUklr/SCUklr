@@ -5,7 +5,7 @@
 ✍️ **Blog**: [SCUKLR GitHub Page](https://scuklr.github.io) / 📫 **Contact**: [122790291klr@gmail.com](mailto:122790291klr@gmail.com)
 
 ## 💼 Experience
-**Backend Engineer Intern** @ **ByteDance** · Data Infra – Operations & Platform | 2026.07 – Present
+**Backend Engineer Intern** @ **ByteDance** · Data Infra – Operations & Platform | 2026.07 – 2026.09
 
 Working on **SDIM** (Service Delivery and Implementation Management), a hardware delivery platform for data-center server provisioning, owning the demand-side configuration and cabinet-delivery pipelines.
 - Unified scattered demand-side/PSM and installation-template configs into a single record; integrated **ByteTree** for service-ID validation and **IVision/TCC** for install parameters, and exposed a shared API contract for downstream systems
